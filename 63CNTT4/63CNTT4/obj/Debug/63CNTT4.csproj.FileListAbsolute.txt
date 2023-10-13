@@ -77,3 +77,10 @@ C:\Users\PCX\Documents\GitHub\PTUDW1\63CNTT4\63CNTT4\obj\Debug\63CNTT4.csproj.Co
 C:\Users\PCX\Documents\GitHub\PTUDW1\63CNTT4\63CNTT4\obj\Debug\63CNTT4.csproj.CopyComplete
 C:\Users\PCX\Documents\GitHub\PTUDW1\63CNTT4\63CNTT4\obj\Debug\63CNTT4.dll
 C:\Users\PCX\Documents\GitHub\PTUDW1\63CNTT4\63CNTT4\obj\Debug\63CNTT4.pdb
+C:\Users\PCX\Documents\GitHub\PTUDW1\63CNTT4\63CNTT4\bin\EntityFramework.dll
+C:\Users\PCX\Documents\GitHub\PTUDW1\63CNTT4\63CNTT4\bin\EntityFramework.SqlServer.dll
+C:\Users\PCX\Documents\GitHub\PTUDW1\63CNTT4\63CNTT4\bin\MyClass.dll
+C:\Users\PCX\Documents\GitHub\PTUDW1\63CNTT4\63CNTT4\bin\MyClass.pdb
+C:\Users\PCX\Documents\GitHub\PTUDW1\63CNTT4\63CNTT4\bin\MyClass.dll.config
+C:\Users\PCX\Documents\GitHub\PTUDW1\63CNTT4\63CNTT4\bin\EntityFramework.xml
+C:\Users\PCX\Documents\GitHub\PTUDW1\63CNTT4\63CNTT4\bin\EntityFramework.SqlServer.xml
